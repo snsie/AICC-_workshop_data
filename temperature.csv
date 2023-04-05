@@ -1,4 +1,4 @@
-patient_deiden_id,vitals_datetime,temp_source,temp_source_value,temp_source_unit,clean_core_body_temp_celsius
+patient_id,vitals_datetime,temp_source,temp_source_value,temp_source_unit,clean_core_body_temp_celsius
 0,10/15/2014 18:46,Oral,98.1,Farenheit,37.2222
 0,10/16/2014 3:12,Oral,97.4,Farenheit,36.8333
 0,10/16/2014 6:31,Oral,97.9,Farenheit,37.1111
