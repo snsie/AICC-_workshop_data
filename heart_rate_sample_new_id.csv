@@ -1,4 +1,4 @@
-patient_deiden_id,vitals_datetime,heart_rate,heart_rate_source
+patient_id,vitals_datetime,heart_rate,heart_rate_source
 0,10/18/2014 8:50,63,
 0,10/18/2014 8:50,64,
 0,10/18/2014 8:51,63,
